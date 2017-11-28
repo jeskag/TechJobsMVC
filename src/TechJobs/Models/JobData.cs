@@ -179,6 +179,7 @@ namespace TechJobs.Models
             valueBuilder.Clear();
 
             return rowValues.ToArray();
+
         }
     }
 }
